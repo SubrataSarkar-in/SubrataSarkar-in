@@ -38,6 +38,13 @@ I’m an aspiring **Data Analyst** with a strong interest in data analysis, busi
 🌱 Open to entry-level opportunities, internships, and learning experiences in Data Analytics & Business Intelligence
 
 <br>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=SubrataSarkar-in&label=Total%20Profile%20Visitors&color=0ea5e9&style=for-the-badge"
+    alt="Total Profile Visitors"
+  />
+</p>
+<br>
 
 ### 🏆 Achievements & Certifications ⭐
 
