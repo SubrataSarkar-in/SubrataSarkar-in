@@ -39,6 +39,24 @@ I’m an aspiring **Data Analyst** with a strong interest in data analysis, busi
 
 <br>
 
+### 🏆 Achievements & Certifications ⭐
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/SubrataSarkar-in/SubrataSarkar-in/blob/47a0b7f9f63aaa628de813bf856a25ba71db02c6/Excel_BasicToAdvanced.png" width="300" style="border: 2px solid white;" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/SubrataSarkar-in/SubrataSarkar-in/blob/47a0b7f9f63aaa628de813bf856a25ba71db02c6/Power_Query_Mastery.png" width="300" style="border: 2px solid white;" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/SubrataSarkar-in/SubrataSarkar-in/blob/47a0b7f9f63aaa628de813bf856a25ba71db02c6/Power_Bi_Mastery.png" width="300" style="border: 2px solid white;" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ### 📈 My GitHub Stats:
 
 <p align="left">
