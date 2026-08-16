@@ -20,11 +20,11 @@ All about me
 
 I’m an aspiring **Data Analyst** with a strong interest in data analysis, business intelligence, and solving real-world business problems using data.
 
-📊 I’m currently building my skills in **Microsoft Excel, Power Query, Power BI, SQL, and Python** through hands-on practice and real-world projects.
+   I’m currently building my skills in **Microsoft Excel, Power Query, Power BI, SQL, and Python** through hands-on practice and real-world projects.
 
-🚀 I’m passionate about learning new technologies, improving my analytical skills, and continuously expanding my knowledge in **Data Analytics and Business Intelligence**.
+   I’m passionate about learning new technologies, improving my analytical skills, and continuously expanding my knowledge in **Data Analytics and Business Intelligence**.
 
-💡 I enjoy exploring data, finding meaningful insights, creating interactive dashboards, and learning how technology can support better business decisions.
+   I enjoy exploring data, finding meaningful insights, creating interactive dashboards, and learning how technology can support better business decisions.
 
 🎯 **My Goal:** To build a successful career as a Data Analyst and contribute to data-driven decision-making while continuously learning and growing.
 
@@ -35,7 +35,7 @@ I’m an aspiring **Data Analyst** with a strong interest in data analysis, busi
 🤖 Interested in AI, automation, and emerging technologies<br>
 📚 Always learning and exploring new concepts<br>
 💬 Happy to connect, learn, and share knowledge<br>
-🌱 Open to entry-level opportunities, internships, and learning experiences in Data Analytics & Business Intelligence
+💼 Open to entry-level opportunities, internships, and learning experiences in Data Analytics & Business Intelligence
 
 <br>
 <p align="center">
